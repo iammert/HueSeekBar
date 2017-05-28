@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HueSeekBar">
+        <attr name="colorEmpty" format="color"/>
+        <attr name="colorFill" format="color"/>
+        <attr name="colorToggle" format="color"/>
+        <attr name="maxProgress" format="integer"/>
+        <attr name="currentProgress" format="integer"/>
+        <attr name="bottomSeekHeight" format="dimension"/>
+        <attr name="bottomSeekToggleWidth" format="dimension"/>
+    </declare-styleable>
+</resources>

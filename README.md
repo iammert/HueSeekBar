@@ -6,7 +6,7 @@ Yet another seek bar inspired from Philips Hue app
 
 # Usage
 
-```java
+```xml
 <iammert.com.huelib.HueSeekBar
             android:layout_width="match_parent"
             android:layout_height="120dp"
@@ -18,7 +18,7 @@ Yet another seek bar inspired from Philips Hue app
             app:maxProgress="100"
             app:currentProgress="20"/>
 ```
-```java
+```xml
 hueSeekBar = (HueSeekBar) findViewById(R.id.hueSeekBar);
 ```
 ```java
